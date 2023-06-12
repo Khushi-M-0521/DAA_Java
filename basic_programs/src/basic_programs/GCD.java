@@ -10,7 +10,7 @@ public class GCD {
 	}
 	public int middleSchool(int m,int n)
 	{
-	    int p[]=new int[10],q[]=new int[10],c=2,a=0,b=0,pro=1,i,j,min,max;
+	    int p[]=new int[10],q[]=new int[10],c=2,a=0,b=0,pro=1,i,j,min,max,min;
 	    int z[],y[];
 	    while (m>1)
 	    {
